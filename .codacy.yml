@@ -13,7 +13,7 @@ engines:
 languages:
   java:
     extensions:
-      - "checkstyle"
+      - "Checkstyle"
 exclude_paths:
   - ".bundle/**"
   - "spec/**/*"
